@@ -84,7 +84,7 @@
       "id":4,
       "name_category": "All Image",
       "title":"4",
-      "image":"https://i.pinimg.com/564x/79/fc/8c/79fc8ceb7340bebb78b4380b00e1aa0d.jpg"
+      "image":"https://i.pinimg.com/564x/e3/11/c5/e311c52b0f472ebe9883e6bad20ec504.jpg"
     },
 	{
       "id":5,
@@ -120,7 +120,7 @@
       "id":10,
       "name_category": "All Image",
       "title":"10",
-      "image":"https://i.pinimg.com/564x/2f/15/15/2f151576dd6f9d600e43101595160a49.jpg"
+      "image":"https://i.pinimg.com/564x/a9/48/9b/a9489b95f35de21f7a394d8973af1ef1.jpg"
     },
 	{
       "id":11,
@@ -324,19 +324,19 @@
       "id":44,
       "name_category": "All Image",
       "title":"44",
-      "image":"https://i.pinimg.com/736x/a6/b3/29/a6b329022b6064ab8c9cf5167960973e.jpg"
+      "image":"https://i.pinimg.com/564x/f8/fb/ae/f8fbaee3244358bd7c5d66ebbb74b212.jpg"
     },
 	{
       "id":45,
       "name_category": "All Image",
       "title":"45",
-      "image":"https://i.pinimg.com/564x/ec/b9/b2/ecb9b2326375d6e5b603fd0700eee4c4.jpg"
+      "image":"https://i.pinimg.com/564x/a8/5f/ec/a85fec8e926a39f30023b4726c2a2787.jpg"
     },
 	{
       "id":46,
       "name_category": "All Image",
       "title":"46",
-      "image":"https://i.pinimg.com/736x/a6/b3/29/a6b329022b6064ab8c9cf5167960973e.jpg"
+      "image":"https://i.pinimg.com/564x/27/9e/a1/279ea14f8d7dd0625fb1e9c1b2e4ca9c.jpg"
     },
 	{
       "id":47,
@@ -577,36 +577,6 @@
       "name_category": "All Image",
       "title":"86",
       "image":"https://i.pinimg.com/564x/88/70/6e/88706ee4df2a9b5306428f862e1b6ee2.jpg"
-    },
-	{
-      "id":87,
-      "name_category": "All Image",
-      "title":"87",
-      "image":"https://i.pinimg.com/564x/f8/fb/ae/f8fbaee3244358bd7c5d66ebbb74b212.jpg"
-    },
-	{
-      "id":88,
-      "name_category": "All Image",
-      "title":"88",
-      "image":"https://i.pinimg.com/564x/27/9e/a1/279ea14f8d7dd0625fb1e9c1b2e4ca9c.jpg"
-    },
-	{
-      "id":89,
-      "name_category": "All Image",
-      "title":"89",
-      "image":"https://i.pinimg.com/564x/a8/5f/ec/a85fec8e926a39f30023b4726c2a2787.jpg"
-    },
-	{
-      "id":90,
-      "name_category": "All Image",
-      "title":"90",
-      "image":"https://i.pinimg.com/564x/a9/48/9b/a9489b95f35de21f7a394d8973af1ef1.jpg"
-    },
-	{
-      "id":91,
-      "name_category": "All Image",
-      "title":"91",
-      "image":"https://i.pinimg.com/564x/e3/11/c5/e311c52b0f472ebe9883e6bad20ec504.jpg"
     }
     
   ]
